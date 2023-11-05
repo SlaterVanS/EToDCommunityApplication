@@ -118,10 +118,10 @@ onBeforeUnmount(() => {
         >
           <div class="flex-end">
             <span class="ant-pro-form-login-logo">
-              <img w-full h-full object-cover src="/logo.svg">
+              <img w-full h-full object-cover src="/logo.png">
             </span>
             <span class="ant-pro-form-login-title">
-              Antdv Pro
+              易创游研
             </span>
             <span class="ant-pro-form-login-desc">
               {{ t("pages.layouts.userLayout.title") }}
@@ -258,7 +258,7 @@ onBeforeUnmount(() => {
     </div>
     <div py-24px px-50px fixed bottom-0 z-11 w-screen :data-theme="layoutSetting.theme" text-14px>
       <GlobalLayoutFooter
-        :copyright="layoutSetting.copyright" icp="鲁ICP备2023021414号-2"
+        :copyright="layoutSetting.copyright" icp=""
       >
         <template #renderFooterLinks>
           <footer-links />

@@ -118,7 +118,7 @@ async function submit() {
               <img src="/logo.svg">
             </span>
             <span class="ant-pro-form-login-title">
-              Antdv Pro
+              易创游研
             </span>
           </div>
           <div class="ant-pro-form-login-desc">

@@ -24,7 +24,7 @@ export default {
   accordionMode: false,
   leftCollapsed: true,
   headerHeight: 48,
-  copyright: 'Antdv Pro Team 2023',
+  copyright: '2021-2023 SlaterVanS Studio. All rights reserved.  Designed by SWEB® DESIGN TEAM.',
   animationName: 'slide-fadein-right',
 } as LayoutSetting
 
